@@ -1,69 +1,69 @@
 # -*-mode: org; coding: utf-8-*-
 #+HTML:<body style="text-align: justify;">
 
-* Tema i: El ámbito de la moralidad. Ética y Moral
-La ética versa sobre el comportamiento del hombre entendiendo que vive
-en sociedad. Así, su perspectiva puede ir de un individualismo extremo
-(Nietzsche) a un colectivismo o rebaño(ismo) como la moral cristiana.
+* Tema i: El ámbito de la moralidad. Ética y Moral [2024-10-09]
+  La ética versa sobre el comportamiento del hombre entendiendo que
+  vive en sociedad. Así, su perspectiva puede ir de un individualismo
+  extremo (Nietzsche) a un colectivismo o rebaño(ismo) como la moral
+  cristiana.
 
 
 ** Etimología
-El origen etimológico de Ética descansa sobre dos términos griegos:
-/êthos/ y /éthos/.  El primero puede traducirse como /morada/
-(Heidegger) ---con un sentido estático---, evolucionando hacia el
-sentido /habitar/ designando el lugar /desde el que se vive/ ---con un
-sentido dinámico o complejo inmanente al ser humano.\\
+   Platón y Aristóteles derivaron /êthos/ (carácter) de
+   /éthos/(costumbre), adquiriendo más peso el segundo término,
+   referido a hábtio.\\
+   Aristóteles usa un par de ejemplos para describir la virtud: (/i/)
+   así como una golondrina no hace verano, tampoco la virtud se
+   adquiere en un día, sino en el trabajo y la práctica constante, o
+   (/ii/) Se aprende a tocar la cítara con la práctica.\\
+   Para Platón, la virtud va ligada al conocimiento y su adquisición a
+   través de la dialéctica y a reflexión, mediante un proceso largo y
+   costoso.\\
+   El origen etimológico de Ética descansa sobre dos términos griegos:
+   /êthos/ y /éthos/.  El primero puede traducirse como /morada/
+   (Heidegger) ---con un sentido estático---, evolucionando hacia el
+   sentido /habitar/ designando el lugar /desde el que se vive/ ---con
+   un sentido dinámico o complejo inmanente al ser humano.\\
+
+   Estos términos se tradujeron en Latín como /mos/ y de donde
+   provendría el término moral. Pero en la traducción el sentido e
+   desplazó hacia el sentido de hábito.\\
 
 
-Platón y Aristóteles derivaron /êthos/ (carácter) de /éthos/
-(costumbre), adquiriendo más peso el segundo término, referido a
-hábtio.\\
-Aristóteles usa un par de ejemplos para describir la virtud: (/i/) así
-como una golondrina no hace verano, tampoco la virtud se adquiere en
-un día, sino en el trabao y la práctica constatne, o (/ii/) Se aprende
-a tocar la cítara con la práctica.\\
-Para Platón, la virtud va ligada al conocimiento y su adquisión a
-través de la dialéctica y a refleción, mediante un proceso largo y
-costoso.\\
+   Sin embargo, Ética no es solo conocimiento, sino perfeccionamiento
+   del hombre. No basta con predicarla, sino que hay que
+   practicarla.\\
 
+   Si bien la ética responde a motivaciones práctica, no es un
+   decálogo, un manual de como uno debe comportarse. De hecho, esta
+   sería una diferencia fundamental entre Ética y Moral. La Moral nos
+   remite a un código cerrado ---e.g. moral cristiana, etc. Mientras
+   que la Ética articula como se construye el código moral. El
+   moralista vendría a ser un guardián del código moral y sus valores,
+   mientras que el filósofo ético cuestiona los mismos valores, su
+   utilidad, etc.\\
+   La Ética se entiende como un saber práctico; debe enfrentarse a lo
+   contingente; debe plantearse los códigos morales que predominan en
+   su tiempo y que rigen las acciones humanas.\\
 
-Estos términos se tradujeron en Latín como /mos/ y de donde provendría
-el término moral. Pero en la traducción el sentido e desplazó hacia el
-sentido de hábito.\\
-
-
-Sin embargo, Ética no es solo conocimiento, sino perfeccionamiento del
-hombre. No basta con predicarla, sino que hay que practicarla.\\
-
-Si bien la ética responde a motivaciones práctica, no es un decálago,
-un manual de como uno debe comportarse. De hecho, esta sería una
-diferencia fundamental entre Ética y Moral. La Moral nos remite a un
-código cerrado ---e.g. moral cristiana, etc. Mientras que la Ética
-articula como se construye el código moral. El moralista vendría a ser
-un guardián del código moral y sus valores, mientras que el filósofo
-ético cuestiona los mismos valores, su utilidad, etc.\\
-La Ética se entiende como un saber práctico; debe enfrentarse a lo
-contingente; debe plantearse los códigos morales que predominan en su
-tiempo y que rigen las acciones humanas.\\
-
-Sin embargo, el fundamento de la Étia pretende apelar a valores
-generales o universales (Kant). Encontrar el nexo, un punto de
-negociación entre lo universal y lo contingente es la complegidad de
-la Ética.\\
+   Sin embargo, el fundamento de la Ética pretende apelar a valores
+   generales o universales (Kant). Encontrar el nexo, un punto de
+   negociación entre lo universal y lo contingente es la complejidad
+   de la Ética.\\
 
 *** Los límites de la moral
 **** Lo amoral
-***** Kierkagard
-El estadio estético más allá, o más acá, de la ética.
-Tres estadios del hombre: estético, ético y religios
+***** Kierkegaard
+      El estadio estético más allá, o más acá, de la ética.
+      Tres estadios del hombre: estético, ético y religios
 ****** Estadio estético
-eg. Don juan: decido no elegir, dejarse llevar por los
+eg. Don Juan: decido no elegir, dejarse llevar por los
 acontecimientos\\
 Es amoral pq sólo busca su satisfacción personal, sin preguntarse si
 es ok o no\\
-obs: hay un punto de inflección en el objeto estético (teoría del
+obs: hay un punto de inflexión en el objeto estético (teoría del
 arte). Kant dice que el goce estético tiene que ser desinteresado,
-libre de relciones de poder, políticas, morales. De alguna manera
+libre de relaciones de poder, políticas, morales. De alguna manera
 proporciona los fundamentos del arte por el arte en sí mismo, del
 romanticismo, de que el arte no debe justificarse, de que tiene un
 valor en sí mismo.
@@ -72,24 +72,24 @@ Elegir
 ****** Estadio religioso
 Estado superior más allá de los anteriores. 
 ***** Nietzsche
-El ataque directo a la moralidad cirstiana en tanto que igualitarismo
+El ataque directo a la moralidad cristiana en tanto que igualitarismo
 o resentido o moralidad del rebaño.\\
 Concepto de virtud presocrático. Cultura de la verdad.
 Indivudalismo vs la comunidad o /eklesía/.
 **** La desmoralización
 Está ligado a la etimología de virtud.\\
-Segúna Savater, virtud viene de vir (viril, intrepidez)\\
+Según Savater, virtud viene de /vir/ (viril, intrepidez)\\
 Ortega Gasset: el hombre desmoralizado es simplemente el hombre que no
 está en posesión de sí mismo.\\
 Se remite a la ética griega arcaica presocrática y de la idea del
 hombre virtuoso como héroe o guerrero.\\
 Las parte buena y la parte mala:\\
 Por un lado, nos conduce a un planteamiento muy individualista. El
-poder indivdual, de la capacidad de acción a ultranza que no
+poder individual, de la capacidad de acción a ultranza que no
 necesariamente se cumple o es posible, ya que muchas veces estamos
 atados a condicionamientos sociales, o un contexto desfavorable por
 tal dinámica.\\
-Mucahs veces es más fácil tener una lectura negativa de la libretad,
+Muchas veces es más fácil tener una lectura negativa de la libertad,
 en cuanto lo que no podemos hacer que lo que sí podemos hacer y de la
 capacidad de acción que podamos tener.\\
 Así, esta idea de que lo que hace que podamos adoptar una conducta
@@ -97,15 +97,93 @@ Así, esta idea de que lo que hace que podamos adoptar una conducta
 voluntad no lo es todo y la capacidad de acción puede ser limitada.
 \\
 
-**** El probelma de la libertad
+**** El problema de la libertad
 Cuando hablamos del hombre desmoralizado, de aquel que no es capaz de
 estar en posesión de sí mismo, está renunciando a algo fundamental de
 su condición, la libertad, que nos permite actuar, tomar decisiones y
-ser responsaable de ellas.\\
+ser responsable de ellas.\\
 Como diría Ortega, /un tigre siempre es un primer tigre, mientras que
 un hombre no es ya nunca Adán/.\\
 
 Lo que no podemos hacer es eludir esta libertad, las circunstancias
----como el hombre estético de Kierkegard. Sartre lo denomina /mala
+---como el hombre estético de Kierkegaard. Sartre lo denomina /mala
 fe/: /que hemos actuado así porqué no podíamos hacerlo de otro modo/,
-que es eludir nuestra ressponsebilidad moral.
+que es eludir nuestra responsabilidad moral.
+
+De aquí las preguntas de (/i/) qué acciones son buenas, (/ii/) como
+podemos discernir aquellas buenas de las que no, (/iii/) cómo tenemos
+que vivir la vida y qué sentido le queremos dar.
+
+**** Lo inmoral [2024-10-16]
+     No podemos abandonarnos al simple capricho (Kierkegaard) ni,
+     tampoco, por otro lado a la simple presión social, la banalidad
+     de del Das Man (Heidegger) o la banalidad del mal (Hannah arendt).
+     
+**** Ética deontológica y ética teleológica
+Con al ética como mediadora, el hombre no puede, tal vez, ajustarse a
+la realidad, pero sí puede actuar con justeza, siguiendo unos
+determinados códigos de convivencia.  Estos códigos pueden ser
+explícitos ---moral como contenido--- o pueden ser formalistas
+---centrados en el cómo, en la teleología.
+
+De aquí se derivan los dos grandes paradigmas éticos de la filosofía
+occidental: la aristotélica (teleológica) y la kantiana (deontológica,
+qué y cómo).
+
+Para Kant, lo fundamental es que actuemos con una máxima que queramos
+que se convierta en universal, el imperativo categórico,
+incondicionado.
+
+***** Ética normativa
+Lo bueno o lo malo se define en relación a unas virtudes y/o
+principios. Es a partir de aquí que se elabora un paradigma ético
+deontológico o teológico.\\
+
+Falacia naturalista (Moore, Hume, etc): ¿Cómo podemos argumentar
+cuáles son estas virtudes o principios?  ¿Podemos comprenderlos como
+hechos?\\
+Al hablar de ética decimos como las cosas són para pasar a decir como
+deberían ser. Se fundamenta la ética a partir de como las cosas son y
+se cae en un cierte determinismo, porque se conciben desde una
+perspectiva esencialista.
+
+***** Metaética
+La metaética no define y defiende unos principios, sino que analiza el
+significado de los términos anunciados éticos, así como sus medios de
+justificación, pensamiento auto-reflexivo.\\
+
+Por ejemplo, definir que significa Ético, virtud, bien, mal, etc.
+
+***** Ética en tiempos postmodernos (fuera del manual)
+Actualmente nos encontramos en la era de la post-verdad (Steve
+Tesich), con el fracaso de las grandes utopías, parece difícil creer
+en algo, defender valores que se pretendan universales, etc.\\
+¿Cómo conseguimos no caer en un relativismo estéril en el qué todo
+vale y no podemos cuestionarnos nada porque todo está permitido?
+
+
+¿Cómo afrontar los problemas éticos?¿Más aún, ya la posibilidad de una
+ética en los tiempos contemporáneos, con la emergencia de la
+denominada post-verdad?\\
+
+¿Puede la Ética ser una herramienta contra los discursos populistas?\\
+
+El individuo post-moderno debe afrontar el fracaso de las grandes
+utopías: la fe del cristianismo en la redención, la creencia del
+capitalismo en la erradicación de la pobreza a través del progreso
+técnico, la creencia del marxismo en la erradicación de la explicación
+y la alimentación por la socialización del trabajo o la creencia del
+pensamiento ilustrado en la emancipación del hombre a través de la
+razón. Ante tal panorama, ¿podemos buscar unos valores éticos, si no
+absolutos, más o menos universales? (Jean-François Lyotard)
+
+
+
+Otro problema al que nos tenemos que enfrontar y es algo problemático,
+y va muy ligado a la ético es cómo se legitima el poder, cuales formas
+de poder son legítimas, cuales no, cuales nos determinan de que manera
+etc.\\
+¿Cómo definir qué es permisible o no en un determinado orden social
+cuando precisamente este orden parece diluirse?
+
+[[https:www.youtube.com/watch?v=5JaxW1jrcas][Vídeo]] de Zizek
